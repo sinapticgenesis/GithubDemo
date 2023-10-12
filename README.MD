@@ -1,6 +1,6 @@
 # Git Demo : Colin S. 
 
-Actually learning Git
+Actually learning Git!!!!!!!!!!!!!!!!!
 
 Gonna leaarn some cool stuff.
 
@@ -8,3 +8,5 @@ Gonna leaarn some cool stuff.
 - Git pull
 - Git push
 - Git Clone
+
+
