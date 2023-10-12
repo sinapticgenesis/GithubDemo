@@ -10,3 +10,6 @@ Gonna leaarn some cool stuff.
 - Git Clone
 
 
+## cool stuff
+
+- we are now learning branching
